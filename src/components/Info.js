@@ -13,7 +13,6 @@ function Info() {
             <p className='info-site'>jacerandolph.website</p>
             <div className='info-buttons'>
                 <a href="#" className='email-button'><img src={Email} alt="email"/>Email</a>
-                <a href="#" className='linkedin-button'><img src={LinkedIn} alt="linked-in"/>LinkedIn</a>
             </div>
             </div>
         </div>
